@@ -1,2 +1,2 @@
-# Angry-Birds-with-SLINGSHOT
-Made on VSC using matter.js
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
